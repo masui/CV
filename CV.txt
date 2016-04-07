@@ -1,0 +1,49 @@
+Toshiyuki Masui is Professor of Faculty of Environment and Information
+Studies, Keio University, Japan.  Before joining Keio University, he
+worked at many IT companies including Fujitsu, Sharp, Sony, and Apple.
+For many years, he has been working on improvements of the user
+interface of computers, mobile phones, and information appliances in
+the coming age. In 2001, he developed a predictive Japanese text
+input system "POBox" for Sony's mobile phones, and the technology is
+now the standard input method on almost all the Japanese mobile
+phones. In 2006, he got headhunted from Apple for the development of
+iPhone's Japanese text input system, and his 'flick-based' Japanese
+text input method is now the standard for Japanese smartphones.
+
+He is the inventer of the "Gyazo" image capturing service povided by
+Nota Inc., Japan, where he serves as the CTO. Around 10M users are
+using Gyazo worldwide, and Nota acquired $2M from Japanese VCs for the
+service in 2014.
+
+His current research interest includes text input techniques,
+information retrieval, information visualization, IoT technologies,
+and authentication techniques.
+
+Prof. Masui received BS and MS in Electrical Engineering from The
+University of Tokyo, Japan, in 1982 and 1984, respectively.  He
+received Ph.D. in Computer Science from The University of Tokyo in
+1997.
+
+Work History:
+
+ 1984-1986  Fujitsu Ltd.
+ 1986-1995  Sharp Corporation
+(1989-1991) Carnegie Mellon University, Visiting Researcher
+ 1996-2003  Sony Computer Scienc Laboratories, Inc.
+ 2003-2006  The National Institute of Advanced Industrial Science
+            and Technology (AIST)
+ 2006-2008  Apple Inc.
+ 2009-      Keio University
+
+Education:
+
+ B.S., The University of Tokyo, 1982
+    Major: Electronic Engineering
+ M.S., The University of Tokyo, 1984
+    Major: Computer Science
+ Ph.D from The University of Tokyo, 1997
+
+Affiliations:
+
+ ACM, IEEE, IPSJ (Information Processing Society of Japan),
+ JSSST (Japan Society for Software Science and Technology)
